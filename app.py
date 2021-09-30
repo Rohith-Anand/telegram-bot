@@ -33,6 +33,7 @@ def main(bot,update):
     lightoff(bot,update)
   elif a=="turn on fan":
     fanon(bot,update)
+    
      
   elif a=="turn off fan":
     fanoff(bot,update)
